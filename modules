@@ -1,0 +1,4 @@
+GLUON_SITE_FEEDS='tro'
+
+PACKAGES_TRO_REPO=https://github.com/stebifan/tro-packages.git
+PACKAGES_TRO_COMMIT=608002a06ebf75c625cddc536cdd5c047a5fa2bd
