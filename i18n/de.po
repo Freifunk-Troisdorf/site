@@ -17,6 +17,7 @@ msgstr ""
 "Das folgende Formular bitte ausfüllen und absenden."
 "Es wird empfohlen – wenn es sein muss – zuerst die Einstellungen"
 "für Experten zu bearbeiten, da dies später nicht mehr möglich ist."
+"Bitte beachte, dass die unter Kontakt eingetragene E-Mail Adresse später öffentlich sichtbar ist!"
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
