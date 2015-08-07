@@ -27,7 +27,7 @@ GLUON_SITE_PACKAGES := \
     iptables \
     haveged \
     tro-netwatch \
-    mini_snmpd
+    mini-snmpd
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
