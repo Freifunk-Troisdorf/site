@@ -1,4 +1,4 @@
 GLUON_SITE_FEEDS='tro'
 
 PACKAGES_TRO_REPO=https://github.com/Freifunk-Troisdorf/packages.git
-PACKAGES_TRO_COMMIT=a8b67abfbb6dd92c8b6116c9c8b5bf1d433dc9e3
+PACKAGES_TRO_COMMIT=1a8ac010d9cadc0775262bc3bd5b1a6cd84278a9
