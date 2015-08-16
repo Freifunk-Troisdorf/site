@@ -7,4 +7,4 @@ install:
   - git clone -b v2015.1 https://github.com/Freifunk-Troisdorf/site /home/travis/build/Freifunk-Troisdorf/gluon/site
 script: 
  - wget https://raw.githubusercontent.com/Freifunk-Troisdorf/build-fw/master/site_check.sh && chmod +x site_check.sh
- - site_check.sh
+ - ./site_check.sh
