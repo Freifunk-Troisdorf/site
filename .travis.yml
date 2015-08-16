@@ -1,0 +1,7 @@
+
+language: bash
+sudo: true
+before_install:
+  - sudo apt-get update -qq
+  - git clone -b v2015.1.2 https://github.com/Freifunk-Troisdorf/gluon /home/travis/build/Freifunk-Troisdorf/gluon 
+  - git clone -b v2015.1 https://github.com/Freifunk-Troisdorf/site /home/travis/build/Freifunk-Troisdorf/gluon/site
