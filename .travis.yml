@@ -1,6 +1,8 @@
 
 language: bash
 sudo: true
+notifications:
+  slack: fftdf:mP5lP4wbjDppb54kckURGrkR
 install:
   - sudo apt-get update -qq
   - git clone -b v2015.1.2 https://github.com/Freifunk-Troisdorf/gluon /home/travis/build/Freifunk-Troisdorf/gluon 
