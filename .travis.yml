@@ -1,6 +1,6 @@
 
 language: bash
-sudo: true
+sudo: false
 notifications:
   slack: fftdf:mP5lP4wbjDppb54kckURGrkR
 install:
