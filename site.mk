@@ -23,10 +23,12 @@ GLUON_SITE_PACKAGES := \
     gluon-mesh-vpn-fastd \
     gluon-radvd \
     gluon-status-page \
+    gluon-authorized-keys \
     iwinfo \
     iptables \
     haveged \
-    tro-netwatch
+    tro-netwatch \
+    tro-offline_ssid
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
