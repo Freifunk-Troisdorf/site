@@ -23,7 +23,6 @@ GLUON_SITE_PACKAGES := \
     gluon-mesh-vpn-fastd \
     gluon-radvd \
     gluon-status-page \
-    kmod-usb2 \
     iwinfo \
     iptables \
     haveged \
