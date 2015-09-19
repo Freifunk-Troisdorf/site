@@ -21,8 +21,6 @@ GLUON_SITE_PACKAGES := \
     gluon-luci-node-role \
     gluon-next-node \
     gluon-mesh-vpn-fastd \
-    kmod-usb2 \
-    kmod-usb-core \
     gluon-radvd \
     gluon-status-page \
     gluon-authorized-keys \
@@ -30,7 +28,28 @@ GLUON_SITE_PACKAGES := \
     iptables \
     haveged \
     tro-netwatch \
-    tro-offline_ssid
+    tro-offline_ssid \
+# USB Support
+	block-mount \
+	kmod-fs-ext4 \
+	kmod-fs-vfat \
+	kmod-usb-storage \
+	kmod-usb-storage-extras \
+	blkid \
+	swap-utils \
+	kmod-nls-cp1250 \
+	kmod-nls-cp1251 \
+	kmod-nls-cp437 \
+	kmod-nls-cp775 \
+	kmod-nls-cp850 \
+	kmod-nls-cp852 \
+	kmod-nls-cp866 \
+	kmod-nls-iso8859-1 \
+	kmod-nls-iso8859-13 \
+	kmod-nls-iso8859-15 \
+	kmod-nls-iso8859-2 \
+	kmod-nls-koi8r \
+	kmod-nls-utf8 \
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
