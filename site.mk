@@ -29,7 +29,6 @@ GLUON_SITE_PACKAGES := \
     haveged \
     tro-netwatch \
     tro-offline_ssid \
-# USB Support
     block-mount \
     kmod-fs-ext4 \
     kmod-fs-vfat \
