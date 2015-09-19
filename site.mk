@@ -49,7 +49,7 @@ GLUON_SITE_PACKAGES := \
 	kmod-nls-iso8859-15 \
 	kmod-nls-iso8859-2 \
 	kmod-nls-koi8r \
-	kmod-nls-utf8 \
+	kmod-nls-utf8
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
