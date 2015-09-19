@@ -21,6 +21,8 @@ GLUON_SITE_PACKAGES := \
     gluon-luci-node-role \
     gluon-next-node \
     gluon-mesh-vpn-fastd \
+    kmod-usb2 \
+    kmod-usb-core \
     gluon-radvd \
     gluon-status-page \
     gluon-authorized-keys \
