@@ -28,7 +28,12 @@ GLUON_SITE_PACKAGES := \
     iptables \
     haveged \
     tro-netwatch \
-    tro-offline_ssid
+    tro-offline_ssid \
+    kmod-usb-core \
+	kmod-usb2 \
+	kmod-usb-hid \
+	kmod-usb-net \
+	kmod-usb-net-asix
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
