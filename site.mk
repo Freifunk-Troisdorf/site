@@ -32,8 +32,6 @@ GLUON_SITE_PACKAGES := \
     kmod-usb-hid \
     kmod-usb-net \
     kmod-usb-net-asix \
-    kmod-usb-net-rtl8150 \
-    kmod-usb-net-rtl8152
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
