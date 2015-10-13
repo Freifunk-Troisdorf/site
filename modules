@@ -5,5 +5,5 @@ PACKAGES_TRO_COMMIT=e92ccaeebb53a8308bb2729721a77cebad0b3494
 
 GLUON_SITE_FEEDS='ffrl'
 
-PACKAGES_ffrl_REPO=https://github.com/ffrl/ffrl-packages
-PACKAGES_ffrl_COMMIT=dcfdc0d6b42c07a81e3456e249068cf1fe0e99b0
+PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages
+PACKAGES_FFRL_COMMIT=dcfdc0d6b42c07a81e3456e249068cf1fe0e99b0
