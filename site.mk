@@ -5,7 +5,6 @@ GLUON_SITE_PACKAGES := \
     gluon-neighbour-info \
     gluon-autoupdater \
     gluon-setup-mode \
-    gluon-simple-tc \
     gluon-config-mode-core \
     gluon-config-mode-autoupdater \
     gluon-config-mode-hostname \
