@@ -13,7 +13,6 @@ GLUON_SITE_PACKAGES := \
     gluon-migrate-vpn \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
-    gluon-ebtables-filter-roguenets \
     gluon-luci-admin \
     gluon-luci-autoupdater \
     gluon-luci-portconfig \
