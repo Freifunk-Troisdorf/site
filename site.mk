@@ -10,7 +10,7 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-hostname \
     gluon-config-mode-geo-location \
     gluon-config-mode-contact-info \
-    gluon-config-mode-tunneldigger
+    gluon-config-mode-tunneldigger \
     gluon-migrate-vpn \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
