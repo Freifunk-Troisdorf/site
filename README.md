@@ -1,4 +1,4 @@
-site [![Build Status](https://travis-ci.org/Freifunk-Troisdorf/site.svg?branch=v2015.1)](https://travis-ci.org/Freifunk-Troisdorf/site)
+site [![Build Status](http://build.freifunk-troisdorf.de/buildStatus/icon?job=Gluon-Troisdorf&build=133)](http://build.freifunk-troisdorf.de/job/Gluon-Troisdorf/133/)
 ====
 repo for site configuration
 
