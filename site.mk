@@ -21,7 +21,6 @@ GLUON_SITE_PACKAGES := \
     gluon-luci-node-role \
     gluon-next-node \
     gluon-mesh-vpn-tunneldigger \
-    gluon-tunneldigger-watchdog \
     gluon-radvd \
     gluon-status-page \
     iwinfo \
