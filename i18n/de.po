@@ -30,3 +30,18 @@ msgstr ""
 "Mehr zu Freifunk in Troisdorf findet sich online unter "
 "<a href="http://www.freifunk-troisdorf.de/">freifunk-troisdorf.de</a></p>"
 "<p>Viel Spaß mit deinem Knoten und der Erkundung von Freifunk!</p>"
+
+msgid "gluon-luci-node-role:role:node"
+msgstr "Normaler Node"
+
+msgid "gluon-luci-node-role:role:uplink"
+msgstr "Node mit Uplink"
+
+msgid "gluon-luci-node-role:role:test"
+msgstr "Test Node"
+
+msgid "gluon-luci-node-role:role:backbone"
+msgstr "Backbone Service Node"
+
+msgid "gluon-luci-node-role:role:service"
+msgstr "Service Node"
