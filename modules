@@ -1,7 +1,7 @@
 GLUON_SITE_FEEDS='tro ffrl'
 
 PACKAGES_TRO_REPO=https://github.com/Freifunk-Troisdorf/packages.git
-PACKAGES_TRO_COMMIT=0f040492f25c81355407e2518d21449b9a7348be
+PACKAGES_TRO_COMMIT=cd9151e1d9f7e2e8b150e2a52a3ad99d8bdf5ed0
 PACKAGES_TRO_BRANCH=v2016.1
 
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages
