@@ -26,6 +26,7 @@ GLUON_SITE_PACKAGES := \
     iptables \
     haveged \
     tro-netwatch \
+    tro-nightboot \
     gluon-ssid-changer \
     gluon-banner
 
