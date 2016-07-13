@@ -1,5 +1,5 @@
 
-GLUON_SITE_FEEDS='tro ffrl'
+GLUON_SITE_FEEDS='tro ffrl airtime'
 
 PACKAGES_TRO_REPO=https://github.com/Freifunk-Troisdorf/packages.git
 PACKAGES_TRO_COMMIT=23a7490549dfd6bf382ebc0e6a452fe9dde9a151
@@ -8,3 +8,9 @@ PACKAGES_TRO_BRANCH=v2016.1
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages
 PACKAGES_FFRL_BRANCH=Branch_v2016.1.x
 PACKAGES_FFRL_COMMIT=934ac0ee6031ab2694069fd5ce7f61c9bc255ba0
+,
+
+
+PACKAGES_AIRTIME_REPO=https://github.com/viisauksena/gluon-airtime.git
+PACKAGES_AIRTIME_COMMIT=640ff953364302f14a4a69ec02769b12068cc0b9
+PACKAGES_AIRTIME_BRANCH=master
