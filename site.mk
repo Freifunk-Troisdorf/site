@@ -28,7 +28,8 @@ GLUON_SITE_PACKAGES := \
     tro-netwatch \
     tro-nightboot \
     gluon-ssid-changer \
-    gluon-banner
+    gluon-banner \
+    gluon-airtime
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
