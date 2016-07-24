@@ -10,6 +10,7 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-geo-location \
     gluon-config-mode-contact-info \
     gluon-config-mode-tunneldigger \
+    gluon-migrate-vpn \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
     gluon-luci-admin \
@@ -19,12 +20,14 @@ GLUON_SITE_PACKAGES := \
     gluon-luci-node-role \
     gluon-next-node \
     gluon-mesh-vpn-tunneldigger \
+    gluon-tunneldigger-watchdog \
     gluon-radvd \
     gluon-status-page \
     iwinfo \
     iptables \
     haveged \
     tro-netwatch \
+    tro-nightboot \
     gluon-ssid-changer \
     gluon-banner
 
