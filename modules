@@ -2,7 +2,7 @@
 GLUON_SITE_FEEDS='tro ffrl airtime'
 
 PACKAGES_TRO_REPO=https://github.com/Freifunk-Troisdorf/packages.git
-PACKAGES_TRO_COMMIT=9616b4674c076483e3eae0a526fce9d76c9b1ebf
+PACKAGES_TRO_COMMIT=00ed00662018e36d584d2b2535c383d27aad9750
 PACKAGES_TRO_BRANCH=v2016.1
 
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages
