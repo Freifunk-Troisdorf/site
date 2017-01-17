@@ -28,7 +28,6 @@ GLUON_SITE_PACKAGES := \
     haveged \
     tro-netwatch \
     tro-nightswitch \
-    tro-nightboot \
     gluon-ssid-changer \
     gluon-banner
 
