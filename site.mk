@@ -9,7 +9,7 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-hostname \
     gluon-config-mode-geo-location \
     gluon-config-mode-contact-info \
-    gluon-config-mode-tunneldigger \
+    gluon-config-mode-mesh-vpn
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
     gluon-web-admin \
@@ -17,7 +17,6 @@ GLUON_SITE_PACKAGES := \
     gluon-web-network \
     gluon-web-private-wifi \
     gluon-web-node-role \
-    gluon-next-node \
     gluon-radvd \
     gluon-status-page \
     iwinfo \
