@@ -10,17 +10,14 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-geo-location \
     gluon-config-mode-contact-info \
     gluon-config-mode-tunneldigger \
-    gluon-migrate-vpn \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
-    gluon-luci-admin \
-    gluon-luci-autoupdater \
-    gluon-luci-portconfig \
-    gluon-luci-private-wifi \
-    gluon-luci-node-role \
+    gluon-web-admin \
+    gluon-web-autoupdater \
+    gluon-web-network \
+    gluon-web-private-wifi \
+    gluon-web-node-role \
     gluon-next-node \
-    gluon-mesh-vpn-tunneldigger \
-    gluon-tunneldigger-watchdog \
     gluon-radvd \
     gluon-status-page \
     iwinfo \
