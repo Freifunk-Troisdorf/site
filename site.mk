@@ -10,7 +10,7 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-geo-location \
     gluon-config-mode-contact-info \
     gluon-config-mode-mesh-vpn \
-    gluon-mesh-vpn-tunneldigger
+    gluon-mesh-vpn-tunneldigger \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
     gluon-web-admin \
