@@ -1,6 +1,7 @@
 GLUON_SITE_PACKAGES := \
     gluon-mesh-batman-adv-15 \
     gluon-respondd \
+    respond-module-airtime \
     gluon-neighbour-info \
     gluon-autoupdater \
     gluon-setup-mode \
