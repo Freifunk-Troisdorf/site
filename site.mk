@@ -27,7 +27,7 @@ GLUON_SITE_PACKAGES := \
     tro-nightswitch \
     tro-nightboot \
     gluon-ssid-changer \
-    gluon-respond-module-airtime \
+    respondd-module-airtime \
     gluon-banner
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
