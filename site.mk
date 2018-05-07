@@ -1,7 +1,6 @@
 GLUON_SITE_PACKAGES := \
     gluon-mesh-batman-adv-15 \
     gluon-respondd \
-    respond-module-airtime \
     gluon-neighbour-info \
     gluon-autoupdater \
     gluon-setup-mode \
@@ -28,6 +27,7 @@ GLUON_SITE_PACKAGES := \
     tro-nightswitch \
     tro-nightboot \
     gluon-ssid-changer \
+    respondd-module-airtime \
     gluon-banner
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
