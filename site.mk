@@ -26,7 +26,7 @@ GLUON_SITE_PACKAGES := \
     tro-netwatch \
     tro-nightswitch \
     tro-nightboot \
-    gluon-ssid-changer \    
+    gluon-ssid-changer \
     respondd-module-airtime \
     gluon-banner
 
