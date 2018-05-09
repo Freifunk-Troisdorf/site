@@ -1,6 +1,6 @@
 
 GLUON_SITE_FEEDS='rsk'
 
-PACKAGES_TRO_REPO=https://github.com/Freifunk-Troisdorf/freifunk-packages.git
-PACKAGES_TRO_COMMIT=fd268edd14cd84d795470a2f35372c0efdde6800
-PACKAGES_TRO_BRANCH=master
+PACKAGES_RSK_REPO=https://github.com/Freifunk-Troisdorf/freifunk-packages.git
+PACKAGES_RSK_COMMIT=fd268edd14cd84d795470a2f35372c0efdde6800
+PACKAGES_RSK_BRANCH=master
