@@ -23,12 +23,14 @@ GLUON_SITE_PACKAGES := \
     iwinfo \
     iptables \
     haveged \
-    tro-netwatch \
-    tro-nightswitch \
-    tro-nightboot \
-    gluon-ssid-changer \
     respondd-module-airtime \
-    gluon-banner
+    gluon-ssid-changer \
+    gluon-banner \
+    gluon-check-client-mesh \
+    gluon-check-mesh \
+    rsk-nightswitch \
+    gluon-rsk-block-mesh \
+    gluon-rsk-config \
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
