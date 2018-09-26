@@ -15,6 +15,7 @@ GLUON_SITE_PACKAGES := \
     gluon-web-autoupdater \
     gluon-web-network \
     gluon-web-private-wifi \
+    gluon-status-page-mesh-batman-adv \
     gluon-web-node-role \
     gluon-radvd \
     gluon-status-page \
