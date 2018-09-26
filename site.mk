@@ -18,6 +18,7 @@ GLUON_SITE_PACKAGES := \
     gluon-web-node-role \
     gluon-radvd \
     gluon-status-page \
+    gluon-status-page-mesh-batman-adv \
     iwinfo \
     iptables \
     haveged \
