@@ -22,7 +22,6 @@ GLUON_SITE_PACKAGES := \
     iwinfo \
     iptables \
     haveged \
-    respondd-module-airtime \
     gluon-ssid-changer \
     gluon-banner \
     gluon-check-client-mesh \
