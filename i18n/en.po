@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2015-03-19 20:28+0100\n"
-"Last-Translator: Stefan Hoffmann <stefan@freifunk-troisdorf.de>\n"
+"PO-Revision-Date: 2019-08-18 14:28+0100\n"
+"Last-Translator: Nils Jakobi <jakobi.nils@gmail.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -18,10 +18,39 @@ msgstr ""
 "Please note, that the email address in the contact field will be"
 "publicly visible."
 
+msgid "gluon-config-mode:domain"
+msgstr "Domain"
+
+msgid "gluon-config-mode:domain-select"
+msgstr ""
+"Here you have the possibility of selecting the mesh domain in which your node "
+"is placed. Please keep in mind that your router only connects with the nodes "
+"of the selected domain."
+
 msgid "gluon-config-mode:pubkey"
 msgstr ""
 "This is your Freifunk node's public key. The registration of the node "
 "is not necessary to join the Freifunk network."
+
+msgid "gluon-config-mode:novpn"
+msgstr ""
+"<p>You have selected <strong>not</strong> to use the mesh VPN. "
+"Your node will only be able to connect to the Freifunk network if other nodes "
+"in reach already have a connection.</p>"
+"Please send an e-mail with the name of your node "
+"(<em><%=pcdata(hostname)%></em>) and some additional information to "
+"<a href=\"mailto:keys@alpha-centauri.freifunk.net?subject="
+"<%= urlencode('Registration: ' .. hostname) %>&amp;body="
+"<%= urlencode('# ' .. hostname .. '\n# ' .. sysconfig.primary_mac .. '\nkey ') %>"
+"%22<%= pubkey %>%22;"
+"<%= urlencode('\n\nI have taken note that the contact I entered in the ') %>"
+"<%= urlencode('node is publicly available on the Internet and can be ') %>"
+"<%= urlencode('used by any services (e.g. the meshviewer map).') %>"
+"<%= urlencode('\n\nThanks, \n\n') %>"
+"\">keys@alpha-centauri.freifunk.net</a>. Of course, your e-mail address will "
+"be treated confidentially and will not be passed on.</p>"
+"<p>Your node <em><%= pcdata(hostname) %></em> is currently rebooting and will "
+"try to connect to other nearby Freifunk nodes after that.</p>"
 
 msgid "gluon-config-mode:reboot"
 msgstr ""
@@ -30,3 +59,24 @@ msgstr ""
 "More information regarding Freifunk you will find on"
 "<a href="http://www.freifunk-troisdorf.de/">freifunk-troisdorf.de</a></p>"
 "<p>Have fun with Freifunk!</p>"
+
+# Leave empty to use the default text, which can be found in:
+# package/gluon-config-mode-hostname/i18n/
+msgid "gluon-config-mode:hostname-help"
+msgstr ""
+
+# Leave empty to use the default text, which can be found in:
+# package/gluon-config-mode-geo-location/i18n/
+msgid "gluon-config-mode:geo-location-help"
+msgstr ""
+
+msgid "gluon-config-mode:altitude-label"
+msgstr ""
+
+# Leave empty to use the default text, which can be found in:
+# package/gluon-config-mode-contact-info/i18n/
+msgid "gluon-config-mode:contact-help"
+msgstr ""
+
+msgid "gluon-config-mode:contact-note"
+msgstr ""
