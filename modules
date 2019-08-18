@@ -1,13 +1,5 @@
-GLUON_SITE_FEEDS='tro ffrl airtime'
+GLUON_SITE_FEEDS='rsk'
 
-PACKAGES_TRO_REPO=https://github.com/Freifunk-Troisdorf/packages.git
-PACKAGES_TRO_COMMIT=4f580ea0ce5e63a82376f484b04dfeeb7e6c0ae9
-PACKAGES_TRO_BRANCH=v2016.1
-
-PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages
-PACKAGES_FFRL_BRANCH=Branch_v2016.1.x
-PACKAGES_FFRL_COMMIT=c6a6fd5ff2954495d8b6feae4094805d206917fc
-
-PACKAGES_AIRTIME_REPO=https://github.com/viisauksena/gluon-airtime.git
-PACKAGES_AIRTIME_COMMIT=640ff953364302f14a4a69ec02769b12068cc0b9
-PACKAGES_AIRTIME_BRANCH=master
+PACKAGES_RSK_REPO=https://github.com/Freifunk-Troisdorf/freifunk-packages.git
+PACKAGES_RSK_COMMIT=30b894a52806b84f364fe85189bd836ef2171104
+PACKAGES_RSK_BRANCH=master
