@@ -3,34 +3,35 @@ GLUON_SITE_PACKAGES := \
     gluon-respondd \
     gluon-neighbour-info \
     gluon-autoupdater \
-    gluon-setup-mode \
-    gluon-config-mode-core \
     gluon-config-mode-autoupdater \
     gluon-config-mode-hostname \
     gluon-config-mode-geo-location \
     gluon-config-mode-contact-info \
-    gluon-config-mode-tunneldigger \
-    gluon-migrate-vpn \
+    gluon-config-mode-mesh-vpn \
+    gluon-mesh-vpn-tunneldigger \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
-    gluon-luci-admin \
-    gluon-luci-autoupdater \
-    gluon-luci-portconfig \
-    gluon-luci-private-wifi \
-    gluon-luci-node-role \
-    gluon-next-node \
-    gluon-mesh-vpn-tunneldigger \
-    gluon-tunneldigger-watchdog \
+    gluon-web-admin \
+    gluon-web-autoupdater \
+    gluon-web-network \
+    gluon-web-private-wifi \
+    gluon-status-page-mesh-batman-adv \
+    gluon-web-node-role \
     gluon-radvd \
     gluon-status-page \
     iwinfo \
+    iw-full \
     iptables \
     haveged \
-    tro-netwatch \
-    tro-nightswitch \
-    tro-nightboot \
     gluon-ssid-changer \
-    gluon-banner
+    gluon-banner \
+    gluon-check-client-mesh \
+    gluon-check-mesh \
+    rsk-nightswitch \
+    gluon-rsk-block-mesh \
+    gluon-rsk-config \
+    gluon-ping-check \
+    gluon-rsk-speedlimit \
 
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
