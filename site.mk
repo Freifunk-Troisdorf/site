@@ -17,7 +17,6 @@ GLUON_SITE_PACKAGES := \
     gluon-web-private-wifi \
     gluon-status-page-mesh-batman-adv \
     gluon-web-node-role \
-    gluon-radvd \
     gluon-status-page \
     iwinfo \
     iw-full \
@@ -40,6 +39,7 @@ GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 GLUON_PRIORITY ?= 0
 GLUON_LANGS ?= en de
 GLUON_REGION ?= eu
+GLUON_DEPRECATED ?= full
 
 # Build ATH10K images
 GLUON_ATH10K_MESH ?= 11s
