@@ -1,23 +1,25 @@
+GLUON_FEATURES := \
+    mesh-batman-adv-15 \
+    respondd \
+    neighbour-info \
+    autoupdater \
+    config-mode-autoupdater \
+    config-mode-hostname \
+    config-mode-geo-location \
+    config-mode-contact-info \
+    config-mode-mesh-vpn \
+    mesh-vpn-tunneldigger \
+    ebtables-filter-multicast \
+    ebtables-filter-ra-dhcp \
+    web-admin \
+    web-autoupdater \
+    web-network \
+    web-private-wifi \
+    status-page-mesh-batman-adv \
+    web-node-role \
+    status-page \
+
 GLUON_SITE_PACKAGES := \
-    gluon-mesh-batman-adv-15 \
-    gluon-respondd \
-    gluon-neighbour-info \
-    gluon-autoupdater \
-    gluon-config-mode-autoupdater \
-    gluon-config-mode-hostname \
-    gluon-config-mode-geo-location \
-    gluon-config-mode-contact-info \
-    gluon-config-mode-mesh-vpn \
-    gluon-mesh-vpn-tunneldigger \
-    gluon-ebtables-filter-multicast \
-    gluon-ebtables-filter-ra-dhcp \
-    gluon-web-admin \
-    gluon-web-autoupdater \
-    gluon-web-network \
-    gluon-web-private-wifi \
-    gluon-status-page-mesh-batman-adv \
-    gluon-web-node-role \
-    gluon-status-page \
     iwinfo \
     iw-full \
     iptables \
