@@ -18,6 +18,15 @@ msgstr ""
 "Please note, that the email address in the contact field will be"
 "publicly visible."
 
+msgid "gluon-config-mode:domain"
+msgstr "Domain"
+
+msgid "gluon-config-mode:domain-select"
+msgstr ""
+"Here you have the possibility of selecting the mesh domain in which your node "
+"is placed. Please keep in mind that your router only connects with the nodes "
+"of the selected domain."
+
 msgid "gluon-config-mode:pubkey"
 msgstr ""
 "This is your Freifunk node's public key. The registration of the node "

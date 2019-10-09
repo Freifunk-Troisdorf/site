@@ -19,9 +19,18 @@ msgstr ""
 "für Experten zu bearbeiten, da dies später nicht mehr möglich ist."
 "Bitte beachte, dass die unter Kontakt eingetragene E-Mail Adresse später öffentlich sichtbar ist!"
 
+msgid "gluon-config-mode:domain"
+msgstr "Domäne"
+
 msgid "gluon-config-mode:pubkey"
 msgstr ""
 "Die Konfiguration ist nun abgeschlossen. Das Registrieren des Nodes ist nicht mehr erforderlich. "
+
+msgid "gluon-config-mode:domain-select"
+msgstr ""
+"Hier hast du die Möglichkeit, die Mesh-Domäne, in der sich dein Knoten "
+"befindet, auszuwählen. Bitte denke daran, dass sich dein Knoten nur mit den "
+"Knoten der ausgewählten Domäne verbinden kann."
 
 msgid "gluon-config-mode:reboot"
 msgstr ""

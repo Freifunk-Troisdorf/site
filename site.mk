@@ -8,6 +8,7 @@ GLUON_FEATURES := \
     config-mode-geo-location \
     config-mode-contact-info \
     config-mode-mesh-vpn \
+    config-mode-domain-select \
     mesh-vpn-tunneldigger \
     ebtables-filter-multicast \
     ebtables-filter-ra-dhcp \
@@ -34,6 +35,7 @@ GLUON_SITE_PACKAGES := \
     gluon-ping-check \
     gluon-rsk-speedlimit \
 
+GLUON_MULTIDOMAIN=1
 DEFAULT_GLUON_RELEASE := 2014.4-stable-2.1
 # Allow overriding the release number from the command line
 
